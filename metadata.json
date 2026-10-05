@@ -1,0 +1,6 @@
+{
+  "name": "Jardín Maternal Raíces",
+  "description": "Sitio web institucional de Jardín Maternal Raíces en City Bell, La Plata. Acompañamiento en primera infancia (45 días a 3 años). Inscripciones 2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
